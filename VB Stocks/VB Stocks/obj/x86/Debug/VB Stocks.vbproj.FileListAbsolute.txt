@@ -1,0 +1,39 @@
+E:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.exe
+E:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.pdb
+E:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.xml
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmOpen.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmLoans.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmStocks.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmRetirement.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.Resources.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmStockDirectory.resources
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.vbproj.GenerateResource.Cache
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.exe
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.xml
+E:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.pdb
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.exe
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.xml
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.pdb
+N:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.exe
+N:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.pdb
+N:\VB Stocks\VB Stocks\bin\Debug\VB Stocks.xml
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmOpen.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmLoans.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmStocks.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmRetirement.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.Resources.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB_Stocks.frmStockDirectory.resources
+N:\VB Stocks\VB Stocks\obj\x86\Debug\VB Stocks.vbproj.GenerateResource.Cache
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB Stocks.exe
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB Stocks.xml
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB Stocks.pdb
+E:\IslamFinalProject\VB Stocks\bin\Debug\VB Stocks.exe
+E:\IslamFinalProject\VB Stocks\bin\Debug\VB Stocks.pdb
+E:\IslamFinalProject\VB Stocks\bin\Debug\VB Stocks.xml
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.frmOpen.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.frmLoans.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.frmStocks.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.frmRetirement.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.Resources.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB_Stocks.frmStockDirectory.resources
+E:\IslamFinalProject\VB Stocks\obj\x86\Debug\VB Stocks.vbproj.GenerateResource.Cache
